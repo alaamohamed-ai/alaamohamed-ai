@@ -23,4 +23,4 @@ I spent three years as a UI/UX designer at Algoriza, and for the past year I've 
 |---------|------------|
 | [Khidma](https://github.com/alaamohamed-ai/Khidma) | Government e-services portal (training project), built from a PRD with an AI agent squad: React + TypeScript SPA, Express/SQLite API, role-based flows for applicants, reviewers and supervisors |
 | [Finora Dashboard](https://github.com/alaamohamed-ai/finora-dashboard) | Personal-finance dashboard UI in plain HTML, CSS and JavaScript |
-| [PixelFlow landing page](https://github.com/alaamohamed-ai/landing-page2) | Responsive marketing landing page for a fictional AI product |
+| [PixelFlow landing page](https://github.com/alaamohamed-ai/PixelFlow-AI-Landing-Page) | Responsive marketing landing page for a fictional AI product |
